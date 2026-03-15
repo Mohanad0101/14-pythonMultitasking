@@ -24,7 +24,7 @@
 
 > **Рисунки.** Лежат в папке `images/` рядом с этим файлом (например, `images/oneprocess-onethread.png`).
 
-[Link to MCQ](mcq-lab14-p1.html.html)
+[MCQ](https://github.com/Mohanad0101/14-pythonMultitasking/blob/main/mcq-lab14-p1.html)
 ---
 
 ## 1. Цели
